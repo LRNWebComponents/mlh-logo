@@ -1,6 +1,6 @@
 # \<mlh-logo\>
 
-
+![screenshot](screenshot.png)
 
 ## Install the Polymer-CLI
 
